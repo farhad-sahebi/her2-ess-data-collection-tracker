@@ -1,3 +1,7 @@
+> Created by **Farhad Sahebi — Professional Data Analyst**
+> 
+> [View my LinkedIn Profile](https://www.linkedin.com/in/farhad-sahebi-ab20b2241)
+
 # HER2 ESS — Data Collection Tracker (Google Sheets)
 
 A professional **Google Sheets–based tracker** designed to manage the full data collection process: **planning → fieldwork → QA → reporting**.  
