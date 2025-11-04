@@ -21,7 +21,7 @@ This tracker was developed to help manage large-scale data collection across mul
 ![QA Log](docs/QA_Log.png)
 
 **DC Progress**
-![DC Progress](docs/DC_Progress.PNG)
+![DC Progress](docs/DC_Progress.png)
 
 **Tools & Targets_Guideline**
 ![Tools & Targets_Guideline](docs/Tools&Targets_Guideline.png)
