@@ -12,5 +12,34 @@ This project demonstrates strong skills in workflow design, data validation, pro
 This tracker was developed to help manage large-scale data collection across multiple provinces, ensuring timely progress, accurate QA checks, and clear reporting dashboards.
 
 ---
+## Screenshots
+**Dashboard View**
+![Dashboard](docs/Summary.png)
+![Dashboard](docs/Summary_(2).png)
+
+**QA Log**
+![QA Log](docs/QA_Log.png)
+
+**DC Progress**
+![DC Progress](docs/DC_Progress.PNG)
+
+**Tools & Targets_Guideline**
+![Tools & Targets_Guideline](docs/Tools&Targets_Guideline.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Repository structure
