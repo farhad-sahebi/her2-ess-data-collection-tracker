@@ -1,1 +1,8 @@
+# Ignore real data and temporary files
+/data/
+/outputs/
+/backups/
+~$*.xlsx
+*.tmp
+*.bak
 
