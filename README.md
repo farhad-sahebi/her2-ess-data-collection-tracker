@@ -8,7 +8,7 @@ A professional **Google Sheets–based tracker** designed to manage the full dat
 This project demonstrates strong skills in workflow design, data validation, progress monitoring, and dashboard automation.
 
 🔗 **Live Tracker (Google Sheets)**  
-[View the tracker here](https://docs.google.com/spreadsheets/d/1j35Q9OACcu17UXUo52C4lQlUc9avPY5TJQs6eXFDMRM/edit?usp=sharing) *(view-only access, charts and formulas fully functional)*
+[View the tracker here](https://docs.google.com/spreadsheets/d/1WLrfZvykjXvpfpjAoHsANqz8rePTqo4RoDqvcn26JyA/edit?usp=sharing) *(view-only access, charts and formulas fully functional)*
 
 ---
 
